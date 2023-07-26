@@ -10,11 +10,11 @@ Researching the different requirements and advantages of the different operating
 
 # What about the process of working through a design document did you find helpful when developing the code?
 
-The Domain model helped me a lot when designing the code. It was a easy bluepront to follow and implement.
+The Domain model helped me a lot when designing the code. It was an easy blueprint to follow and implement.
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-I would revise my recommendation section. I wouold recommend the game to be on a cloud server and the game app should run from the cloud so that any platform with a browser can use it. The game would send the resources to the client before the games so that it could load into their ram for fast rendering.
+I would revise my recommendation section. I would recommend the game to be on a cloud server and the game app should run from the cloud so that any platform with a browser can use it. The game would send the resources to the client before the games so that it could load into their ram for fast rendering.
 
 # How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
